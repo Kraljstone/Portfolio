@@ -220,14 +220,15 @@
   }
 
   .img-item1 img {
-    margin-left: -10rem;
-    margin-bottom: 15rem;
+    margin-left: -20rem;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
     height: 8rem;
     width: 8rem;
   }
 
   .img-item2 img {
-    margin-top: -10rem;
+    margin-top: -20rem;
     height: 8rem;
     width: 8rem;
   }
@@ -329,7 +330,7 @@
   }
 
   .card__price-value {
-    font-size: 6rem;
+    font-size: 3.5rem;
   }
 }
 
