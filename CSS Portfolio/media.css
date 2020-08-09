@@ -332,6 +332,28 @@
   .card__price-value {
     font-size: 3.5rem;
   }
+
+  #contact-a .text-fields {
+    grid-template-areas: "name" "subject" "email" "phone" "message";
+    margin-left: -0.8rem;
+  }
+  #contact-b div {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px #555 solid;
+  }
+  #contact-b div:last-child {
+    border: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+  }
+  #contact-c h1 {
+    font-size: 2rem;
+  }
+
+  .contact-info p {
+    margin-right: 3rem;
+  }
 }
 
 @media (min-width: 1024px) {
